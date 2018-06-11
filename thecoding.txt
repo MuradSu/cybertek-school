@@ -12,4 +12,8 @@ Sublime
 JUnit test
 Webdriver
 
+
+
+AWS 
+
 There are the skills we are going to learn in Cybertek.
